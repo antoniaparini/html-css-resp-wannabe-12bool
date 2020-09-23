@@ -12,6 +12,8 @@ h2 {
 .box {
   text-align: center;
   padding: 10px;
-  background: #daa520;
-  border: 1px solid rgba(0, 0, 0, 0.1);
+  font-weight: bold;
+  padding-bottom: 20px;
+  /*background: #daa520;
+  border: 1px solid rgba(0, 0, 0, 0.1);*/
 }
