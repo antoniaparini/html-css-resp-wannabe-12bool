@@ -25,6 +25,7 @@
   background: #ffffe0;
 }
 /*SMARTPHONE DEVICES XS*/
+
 @media screen and (max-width:768px) {
   .col-xs-12 img {
     max-width:200px;
