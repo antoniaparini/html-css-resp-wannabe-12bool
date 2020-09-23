@@ -40,6 +40,11 @@
     text-align: center;
     margin-bottom: 30px;
   }
+
+  .col-xs-12 .round {
+    background-color: #428bca;
+    border-radius: 70px;
+  }
 }
 
 
