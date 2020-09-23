@@ -1,0 +1,17 @@
+body{
+  font-family: sans-serif;
+}
+
+/*TYPOGRAPHY*/
+h1,
+h2 {
+  text-align: center;
+  margin:30px;
+}
+
+.box {
+  text-align: center;
+  padding: 10px;
+  background: #daa520;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
