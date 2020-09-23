@@ -3,7 +3,9 @@ body{
 }
 
 /*TYPOGRAPHY*/
-
+h1 {
+  padding-bottom: 40px;
+}
 h1,
 h2 {
   text-align: center;
@@ -17,7 +19,7 @@ h2{
 .box {
   text-align: center;
   padding: 10px;
-  font-weight: bold;
+  font-weight: bolder;
   padding-bottom: 20px;
   padding-top: 30px;
   /*background: #daa520;
