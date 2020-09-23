@@ -27,22 +27,14 @@
 /*SMARTPHONE DEVICES XS*/
 
 @media screen and (max-width:768px) {
-  .col-xs-12 img {
-    max-width:200px;
-    max-height:100px;
-    margin-top: 20px;
-    padding-bottom: 20px;
-    display:block;
-    margin:0px auto;
-    text-align:center;
-      }
+
   .col-xs-12 p {
     font-size: 15px;
     text-align: center;
     margin-bottom: 30px;
   }
 
-  .col-xs-12 .round{
+  .col-xs-12 .round {
     background-color: #428bca;
     border-radius: 50%;
     max-width:200px;
@@ -66,9 +58,6 @@
   padding-left: 0px;
   padding-right: 0px;
 }
-
-
-
 
 /* COLONNA XS*/
 .col-xs-12 {
@@ -123,7 +112,15 @@
 
 /*TABLET (md) 768 - 991 */
 
-@media screen and (min-width: 768px;){
+@media screen and (min-width: 768px){
+  .col-md-6 .display {
+    display:inline-block;
+  }
+  .col-md-6 p {
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 30px;
+  }
 
   /* COLONNA MD*/
   .col-md-12 {

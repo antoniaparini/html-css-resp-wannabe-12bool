@@ -21,3 +21,30 @@ h2{
   /*background: #daa520;
   border: 1px solid rgba(0, 0, 0, 0.1);*/
 }
+
+.col-xs-12 img {
+  max-width:200px;
+  max-height:100px;
+  margin-top: 30px;
+  padding-bottom: 20px;
+  display:block;
+  margin:0px auto;
+  text-align:center;
+    }
+
+.col-md-6 p {
+          font-size: 15px;
+          text-align: center;
+          margin-bottom: 30px;
+        }
+.col-md-12 img {
+      background-color: #428bca;
+      border-radius: 50%;
+      padding: 30px
+    }
+
+.col-md-12 p {
+      font-size: 15px;
+      text-align: center;
+      margin-bottom: 30px;
+    }
