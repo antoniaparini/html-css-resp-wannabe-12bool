@@ -9,6 +9,9 @@ h2 {
   margin:30px;
 }
 
+h2{
+  padding-top: 30px;
+}
 .box {
   text-align: center;
   padding: 10px;
